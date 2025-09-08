@@ -1,5 +1,8 @@
 # Getting Started with Apache Iceberg
 
+## Visit Avocado Datalake blog page for more details
+https://www.dwh.co.in/blogs/apache-iceberg/getting-started-with-apache-iceberg/
+
 Start your terminal with Apache Spark 3.5 and Apache Iceberg 1.9.2
 
 ```

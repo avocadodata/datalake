@@ -1,5 +1,9 @@
 # Getting Started with Delta Lake
 
+## Visit Avocado Datalake blog
+https://www.dwh.co.in/blogs/delta-lake/getting-started-with-delta-lake/
+
+
 Start your terminal with Apache Spark 3.5 and Delta Lake 3.1.0
 
 ```
