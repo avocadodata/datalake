@@ -1,7 +1,5 @@
 # Getting Started with Delta Lake
 
-
-
 Start your terminal with Apache Spark 3.5 and Delta Lake 3.1.0
 
 ```
@@ -25,8 +23,11 @@ val data = Seq(("1", "Kayako", "IN"), ("2", "Zomato", "IN"), ("3", "Google", "US
 val schema = Seq("id", "name", "country")
 val rdd = spark.sparkContext.parallelize(data)
 val df = rdd.toDF(schema:_*)
+```
 
-<!-- Let's store in Delta lake storage format -->
+## Let's store in Delta lake storage format
+
+```
 val basePath = "file:///Users/avocadodata/data/delta-lake/no-partition/getting-started/"
 
 df.write.format("delta").mode("overwrite").save(basePath)

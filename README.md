@@ -1,5 +1,5 @@
-# Avocado Datalake Home page:
-This is official codebase of Avocado Datalake blogs post. Visit us https://www.dwh.co.in/ for more details.
+# Avocado Data lake Home page:
+This is official codebase of Avocado Data lake blogs post. Visit us https://www.dwh.co.in/ for more details.
 
 # Contact Us
 https://www.dwh.co.in/contact-us/
@@ -28,11 +28,18 @@ https://www.dwh.co.in/products/data-lake-to-data-warehouse/
 ## Avocado Data Lake Technical blogs
 https://www.dwh.co.in/blogs/
 
+
 ## What Exactly is a Data Lake?
 https://www.dwh.co.in/blogs/what-is-a-data-lake/
 
-## Data Lake vs. Data Warehouse: A Detailed Comparison for Modern Data Architecture.
-
+## Data Lake vs. Data Warehouse: 
+A Detailed Comparison for Modern Data Architecture.
 https://www.dwh.co.in/blogs/data-lake-vs-data-warehouse/
 
 
+## Getting started with Delta lake
+https://www.dwh.co.in/blogs/delta-lake/getting-started-with-delta-lake/
+
+
+## Getting Started with Apache Iceberg
+https://www.dwh.co.in/blogs/apache-iceberg/getting-started-with-apache-iceberg/
